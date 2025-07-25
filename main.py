@@ -2,7 +2,7 @@ import time
 import datetime
 from telebot import TeleBot, types
 
-bot = TeleBot("токен бота тг")
+bot = TeleBot("8336658896:AAFR7JViR38cpzAm6cSj2i8fBaHfARpkWW4")
 print("Code by yawix93 =)")
 
 @bot.message_handler(commands=["start"])
